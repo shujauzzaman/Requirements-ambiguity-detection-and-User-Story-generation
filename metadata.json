@@ -1,0 +1,5 @@
+{
+  "name": "Requirement Analyzer AI",
+  "description": "An AI-powered professional platform for detecting ambiguities in software requirements and generating precise user stories using Gemini 3 Pro.",
+  "requestFramePermissions": []
+}
